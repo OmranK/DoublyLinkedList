@@ -1,5 +1,5 @@
 # Java Doubly Linked List 
 
-My implementation of a Doubly Linked List in Java with Junit Tests for each method.
+My implementation of a Doubly Linked List in Java using a "Sentinel Node" for both head and tail references.
 
-Does not include Unit Tests for the two Iterator methods or any of the private methods inside the class. 
+Accompanying Junit Tests were created to ensure code is working properly.
